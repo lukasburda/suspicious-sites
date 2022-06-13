@@ -1,2 +1,2 @@
-# suspicious-sites
-My custom PiHole blocklist 
+# Suspicious sites
+My custom PiHole blocklist that contains suspicious and dangerous sites. 
