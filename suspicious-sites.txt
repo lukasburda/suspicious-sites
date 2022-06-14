@@ -1,0 +1,6 @@
+#<Redirect-Sites>
+0.0.0.0 adscomp.xyz
+0.0.0.0 pdbajmyldhfrd.com
+0.0.0.0 mbuabypsbfh.com
+0.0.0.0 vazypteke.pro
+#</Redirect-Sites>
