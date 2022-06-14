@@ -3,4 +3,6 @@
 0.0.0.0 pdbajmyldhfrd.com
 0.0.0.0 mbuabypsbfh.com
 0.0.0.0 vazypteke.pro
+0.0.0.0 syndication.realsrv.com
+0.0.0.0 ginepija.com
 #</Redirect-Sites>
